@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: huulntps03977
+  host: huulntps03977
+  disk_quota: 1024M
